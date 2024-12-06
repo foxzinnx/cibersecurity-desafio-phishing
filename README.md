@@ -17,10 +17,10 @@
 - Obtendo o endereço da máquina: ``` ifconfig ```
 - URL para clone: http://www.facebook.com
 
-### Resutados
+#### Resutados
 
-## Site clonado
+## Site clonado:
 ![Alt text](./site.png "Optional title")
 
-## Credenciais capturadas
+## Credenciais capturadas:
 ![Alt text](./password.png "Optional title")
