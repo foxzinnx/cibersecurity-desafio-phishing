@@ -19,5 +19,8 @@
 
 ### Resutados
 
+## Site clonado
 ![Alt text](./site.png "Optional title")
+
+## Credenciais capturadas
 ![Alt text](./password.png "Optional title")
