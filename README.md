@@ -19,4 +19,5 @@
 
 ### Resutados
 
-![Alt text](./passwd.png "Optional title")
+![Alt text](./site.png "Optional title")
+![Alt text](./password.png "Optional title")
